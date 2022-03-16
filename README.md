@@ -29,6 +29,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eletmetrixtr&show_icons=true&theme=monokai&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="eletmetrixtr" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eletmetrixtr&theme=monokai&hide_border=true" alt="eletmetrixtr" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eletmetrixtr&theme=monokai&hide_border=true&count_private=true&langs_count=8" alt="eletmetrixtr" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eletmetrixtr&show_icons=true&theme=monokai&locale=en&layout=compact&hide_border=true&include_all_commits=true&count_private=true" alt="eletmetrixtr" /></p>
