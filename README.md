@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erdem Rafet Bostan</h1>
-<h3 align="center">A passionate Fullstack Game Developer</h3>
+<h3 align="center">Founder of TeamCyberless Softwares</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eletmetrixtr&label=Profile%20views&color=0e75b6&style=flat" alt="eletmetrixtr" /> </p>
+<p align="center">
+<img alt="eletmetrixtr" src="https://komarev.com/ghpvc/?username=eletmetrixtr&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eletmetrixtr&theme=monokai&no-frame=true&row=1&column=8&include_all_commits=true&count_private=true" alt="eletmetrixtr" /></a> </p>
 
