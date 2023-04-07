@@ -16,12 +16,12 @@
 <h3 align="center">My Special Repos</h3>
 <br>
 <div align="center">
-<a href="https://github.com/Eletmetrix/CyberlessExampleParameters" title="Tools"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eletmetrix&repo=CyberlessExampleParameters&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
-  <a href="https://github.com/Eletmetrix/Tools" title="Tools"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eletmetrix&repo=UnrealReplayServer&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
+<a href="https://github.com/Eletmetrix/CyberlessExampleParameters" title="CyberlessExampleParameters"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eletmetrix&repo=CyberlessExampleParameters&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
+  <a href="https://github.com/Eletmetrix/UnrealReplayServer" title="UnrealReplayServer"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eletmetrix&repo=UnrealReplayServer&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
 </div>
 <div align="center">
-  <a href="https://github.com/TeamCyberless/DiscordGameSDK" title="Tools"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamCyberless&repo=DiscordGameSDK&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
-  <a href="https://github.com/TeamCyberless/CyberlessGameServer" title="Tools"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamCyberless&repo=CyberlessGameServer&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
+  <a href="https://github.com/TeamCyberless/DiscordGameSDK" title="DiscordGameSDK"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamCyberless&repo=DiscordGameSDK&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
+  <a href="https://github.com/TeamCyberless/CyberlessGameServer" title="CyberlessGameServer"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamCyberless&repo=CyberlessGameServer&theme=radical&hide_border=true&icon_color=B382CE&title_color=b382CE"></a>
 </div>
 
 <br>
