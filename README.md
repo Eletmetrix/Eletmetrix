@@ -8,7 +8,7 @@
 <p align="center">
     <samp>
       <a href="https://www.linkedin.com/in/eletmetrix/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/LinkedIn-0274B3?style=for-the-badge&logo=linkedin&logoColor=white"></a></a>
-      <a href="https://www.instagram.com/ifeellikeamillionaire/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Instagram-E12C77?style=for-the-badge&logo=instagram&logoColor=white"></a></a>
+      <a href="https://www.instagram.com/erdmrfet/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Instagram-E12C77?style=for-the-badge&logo=instagram&logoColor=white"></a></a>
       <a href="https://twitter.com/tcyberless" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/twitter-1C93E5?style=for-the-badge&logo=twitter&logoColor=white"></a></a>
       <a href="https://discord.gg/XhBVq85w4a" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
       <a href="https://forums.unrealengine.com/u/eletmetrix/" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
