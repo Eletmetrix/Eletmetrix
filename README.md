@@ -5,6 +5,7 @@
 <br>
 
 <p align="center">"A great game is built not just with code, but with passion. It's love for the craft that turns pixels into worlds and players into heroes."</p>
+<p align="center">- Probably me</p>
 
 <br>
 
