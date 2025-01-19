@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I'm Erdem Rafet Bostan</h1>
-<h3 align="center">Founder of TeamCyberless Softwares</h3>
+<h3 align="center">Video Game Developer</h3>
 <p align="center"><img alt="eletmetrix" src="https://komarev.com/ghpvc/?username=eletmetrix&label=Profile%20views&color=0e75b6&style=flat" /></p>
+
+<br>
+
+<p align="center">"A great game is built not just with code, but with passion. It's love for the craft that turns pixels into worlds and players into heroes."</p>
 
 <br>
 
